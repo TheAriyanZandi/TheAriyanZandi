@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me theariyanzandi@gmail.com
-- 😄 Pronouns: Ariyan not aryan
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: unfortunately soup is food
 
 <!---
